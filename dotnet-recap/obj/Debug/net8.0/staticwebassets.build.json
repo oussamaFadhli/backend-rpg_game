@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Pwml34Ep8W99hZpu8mnEtMDDnpjFymyVSB+ZB28hbVU=",
+  "Source": "dotnet-recap",
+  "BasePath": "_content/dotnet-recap",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
